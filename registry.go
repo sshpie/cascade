@@ -4,8 +4,8 @@ import (
 	"net"
 	"strings"
 
-	"github.com/nuclide-research/cascade/engine"
-	"github.com/nuclide-research/cascade/tools"
+	"github.com/zellkernel/cascade/engine"
+	"github.com/zellkernel/cascade/tools"
 )
 
 // allTools is the single source of truth for the tool set. Both the CLI path

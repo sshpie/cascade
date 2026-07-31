@@ -5,7 +5,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/nuclide-research/cascade/engine"
+	"github.com/zellkernel/cascade/engine"
 )
 
 // Partial IEEE OUI table (top 50 vendors by prevalence).

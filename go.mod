@@ -1,4 +1,4 @@
-module github.com/nuclide-research/cascade
+module github.com/zellkernel/cascade
 
 go 1.26.3
 

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nuclide-research/cascade/engine"
+	"github.com/zellkernel/cascade/engine"
 )
 
 // whoisServer returns the correct WHOIS server for a TLD.

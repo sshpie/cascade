@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/nuclide-research/cascade/engine"
+	"github.com/zellkernel/cascade/engine"
 )
 
 // seed() is the single target-type classifier shared by the CLI and the GUI.

@@ -12,7 +12,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/nuclide-research/cascade/engine"
+	"github.com/zellkernel/cascade/engine"
 )
 
 // webgui assets are embedded at build time. Pure Go, no runtime asset path.
