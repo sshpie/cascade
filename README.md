@@ -5,7 +5,7 @@ DNS/IP reconnaissance cascade. Seed one value — domain, IP, email, or MAC — 
 ![cascade GUI — live dependency-DAG](docs/gui.png)
 
 ```
-go install github.com/zellkernel/cascade@latest
+go install github.com/sshpie/cascade@latest
 ```
 
 ## Three ways to run it, one engine
@@ -108,7 +108,7 @@ No API keys required. Lookups use system DNS, public WHOIS/RDAP, and free no-key
 ## Build from source
 
 ```
-git clone https://github.com/zellkernel/cascade
+git clone https://github.com/sshpie/cascade
 cd cascade
 go build -o cascade .
 

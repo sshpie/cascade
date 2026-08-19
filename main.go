@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/zellkernel/cascade/engine"
-	"github.com/zellkernel/cascade/output"
+	"github.com/sshpie/cascade/engine"
+	"github.com/sshpie/cascade/output"
 	"github.com/spf13/cobra"
 )
 

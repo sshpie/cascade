@@ -4,8 +4,8 @@ import (
 	"net"
 	"strings"
 
-	"github.com/zellkernel/cascade/engine"
-	"github.com/zellkernel/cascade/tools"
+	"github.com/sshpie/cascade/engine"
+	"github.com/sshpie/cascade/tools"
 )
 
 // allTools is the single source of truth for the tool set. Both the CLI path

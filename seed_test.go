@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/zellkernel/cascade/engine"
+	"github.com/sshpie/cascade/engine"
 )
 
 // seed() is the single target-type classifier shared by the CLI and the GUI.

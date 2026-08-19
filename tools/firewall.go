@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/miekg/dns"
-	"github.com/zellkernel/cascade/engine"
+	"github.com/sshpie/cascade/engine"
 )
 
 // dnsA is an alias to avoid confusion in this file.

@@ -1,4 +1,4 @@
-module github.com/zellkernel/cascade
+module github.com/sshpie/cascade
 
 go 1.26.3
 

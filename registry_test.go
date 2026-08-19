@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"github.com/zellkernel/cascade/engine"
+	"github.com/sshpie/cascade/engine"
 )
 
 // The registry is the single source of truth for both the CLI and the GUI graph.

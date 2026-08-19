@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/miekg/dns"
-	"github.com/zellkernel/cascade/engine"
+	"github.com/sshpie/cascade/engine"
 )
 
 // DNS-based real-time blacklists (no API key required).
