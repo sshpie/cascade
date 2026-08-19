@@ -128,4 +128,4 @@ The suite covers the load-bearing logic — the dependency-cascade engine, seed-
 
 ## License
 
-MIT. Part of the NuClide toolchain.
+MIT. Part of the  toolchain.
